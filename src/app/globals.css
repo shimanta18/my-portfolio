@@ -1,0 +1,18 @@
+/* src/app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-paper: #fafaf8;
+  --color-ink: #16181d;
+  --color-slate: #6b7280;
+  --color-slate-light: #9ca3af;
+  --color-accent: #3454d1;
+  --color-accent-dark: #28409e;
+  --color-accent-light: #eef1fc;
+  --color-border: #e5e7eb;
+  --color-card: #ffffff;
+}
+
+/* ... Keep all your remaining theme rules, body styles, and dot grids exactly as they are below ... */
