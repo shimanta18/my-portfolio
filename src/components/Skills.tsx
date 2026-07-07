@@ -16,18 +16,18 @@ const skillCategories = [
     title: "Backend",
     skills: [
       { name: "Node.js / Express", level: 88 },
-      { name: "PostgreSQL / MongoDB", level: 82 },
-      { name: "GraphQL / Apollo", level: 80 },
-      { name: "Redis", level: 75 },
+      { name: " MongoDB", level: 82 },
+      
+      
     ],
   },
   {
     title: "Tools & Cloud",
     skills: [
       { name: "Git / GitHub Actions", level: 92 },
-      { name: "Docker", level: 78 },
+      
       { name: "Figma", level: 85 },
-      { name: "Vercel / AWS", level: 80 },
+      { name: "Vercel ", level: 80 },
     ],
   },
 ];
