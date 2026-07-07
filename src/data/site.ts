@@ -163,7 +163,7 @@ export const projects: Project[] = [
     stack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "DaisyUI"],
     description:
       "eTuitionBd is a highly optimized full-stack web application built specifically for streamlining online and offline tutor matching in Bangladesh. It incorporates intelligent multi-role dashboard routing logic to dynamically manage personalized user journeys for students and educators.",
-    liveUrl: "https://etuitionbd.netlify.app", 
+    liveUrl: "https://etuition.netlify.app/", 
     githubUrl: "https://github.com/shimanta18/eTution-client-side.git", 
     challenges:
       "Implementing smart multi-role routing at the base dashboard path was complex—improper handling caused dashboard flickering during token validation. I resolved this by building a dedicated client-side redirect gateway component that cleanly evaluates user authentication claims before mounting dashboard views.",
