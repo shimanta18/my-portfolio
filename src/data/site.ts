@@ -19,7 +19,7 @@ export const profile = {
   phone: "+880 1591144072",
   whatsapp: "+8801591144072",
   photo: "/profile/photo.png",
-  resumeUrl: "https://drive.google.com/file/d/1Hlej9pe4dUS5iTmYRMGTznbQArqZFs9D/view?usp=sharing", // Drop your resume.pdf into public/resume/
+  resumeUrl: "https://drive.google.com/file/d/1vJih4C95AEjjc3hVlvZCG9SWsPyqKlfv/view?usp=drive_link", // Drop your resume.pdf into public/resume/
   availableForWork: true,
 };
 
