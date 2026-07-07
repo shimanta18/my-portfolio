@@ -76,7 +76,7 @@ export const skillCategories: SkillCategory[] = [
       { name: "Node.js", level: 85 },
       { name: "Express", level: 85 },
       { name: "MongoDB", level: 82 },
-      { name: "PostgreSQL", level: 70 },
+     
       { name: "REST APIs", level: 88 },
     ],
   },
@@ -85,7 +85,7 @@ export const skillCategories: SkillCategory[] = [
     description: "The systems, runtime engines, and paradigms that keep builds secure.",
     skills: [
       { name: "Git & GitHub", level: 90 },
-      { name: "Data Structures & Algos", level: 85 },
+      
       { name: "VS Code", level: 95 },
       { name: "Netlify / Vercel", level: 88 },
     ],
