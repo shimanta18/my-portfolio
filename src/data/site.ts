@@ -204,6 +204,23 @@ export const projects: Project[] = [
     improvements:
       "Planning to migrate the utility layout to React/Next.js architectures, incorporate complex state history trackers, and add a local encrypted database to save settings offline.",
   },
+  {
+    slug: "Ai-learning hub",
+    name: "Learning hub  — learn deeply",
+    shortDescription:
+      "LearningHub is a full-stack online course marketplace and learning platform built with Next.js, React, Node.js, Express, and MongoDB. It features a responsive UI with dark mode support, real-time course search, dynamic category and level filtering, flexible sorting options, and structured curriculum views.",
+    image: "/projects/LH.png", 
+    tags: ["Typescript", "HTML5", "Tailwind CSS", "Next js"],
+    stack: ["TypeScript", "HTML5", "CSS3", "Tailwind CSS", "Next.js", "firebase","Gemini AI"],
+    description:
+      "LearningHub is a modern, full-stack educational web application designed to serve as an online course marketplace and learning platform. It provides students with a seamless, responsive interface to discover, filter, and enroll in expert-led courses across multiple technical domains.",
+    liveUrl: "https://ai-learning-hub-client-server.vercel.app/",
+    githubUrl: "https://github.com/shimanta18/AI-learning-hub-client-server-.git",
+    challenges:
+      "Ensuring strict consistency between MongoDB Mongoose schemas and Next.js frontend state mapping (e.g., aligning _id with id and course tracks with categories).",
+    improvements:
+      "Implement pagination or infinite scrolling to efficiently handle large course catalogs without overloading the UI or network.",
+  },
 ];
 
 export const contact = {
